@@ -33,6 +33,7 @@ DOMAIN-SUFFIX, ptsbao.club
 DOMAIN-SUFFIX, gainbound.net
 # -> PT时间
 DOMAIN-SUFFIX, pttime.org
+
 # -> NicePT
 DOMAIN-SUFFIX, nicept.net
 # -> 备胎
@@ -110,3 +111,7 @@ DOMAIN-SUFFIX, hitpt.com
 DOMAIN-SUFFIX, hdroute.org
 # -> HDVIDEO
 DOMAIN-SUFFIX, hdvideo.one
+# -> WinterSakura
+DOMAIN-SUFFIX, wintersakura.org
+# -> GPW | Great Poster Wall
+DOMAIN-SUFFIX, greatposterwall.com
